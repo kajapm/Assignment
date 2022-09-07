@@ -1,7 +1,7 @@
 import java.util.*;
 public class NestedIf 
 {
-    public static void main(String args[])  //program to check eligible for voting
+    public static void main(String args[])  //program to check eligiblity for voting
     {
     Scanner scan=new Scanner(System.in);
 
